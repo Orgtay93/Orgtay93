@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Tayla
+- 👀 I’m interested in finding great Tech Talent ...
+- 💞️ I’m looking to collaborate on helping you find your dream Job ...
+- 📫 How to reach me tayla@vtalent.de ...
+
+<!---
+Orgtay93/Orgtay93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
